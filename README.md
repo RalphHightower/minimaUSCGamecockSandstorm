@@ -32,3 +32,4 @@
 
 ###### Heading 6
 
+![](https://gitwar.herokuapp.com/badge?username=RalphHightower)
