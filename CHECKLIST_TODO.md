@@ -1,4 +1,5 @@
 - [ ] Create README.md
+- [ ] Customize _config.yml
 - [ ] Create Issue Templates
 - [ ] Add LICENSE.txt
 - [ ] Add Code of Conduct
