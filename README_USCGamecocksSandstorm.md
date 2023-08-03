@@ -1,3 +1,5 @@
+# USC Gamecock Sandstorm Theme — Jekyll/Minima Themed
+
 | [Communications and Marketing - Communications and Marketing](https://sc.edu/about/offices_and_divisions/communications/index.php) / [University of South Carolina](https://www.sc.edu/) |
 |---|
 | [Brand Toolbox - Communications and Marketing / University of South Carolina](https://sc.edu/about/offices_and_divisions/communications/toolbox/index.php ) |
@@ -15,13 +17,14 @@
 | Warm Grey |HEX: #676156 |
 | Sandstorm | HEX: #FFF2E3 |
 
-## Change username for stats
+## GitHub README Stats
 
-If you want stats, change the username to your account. 
+If you want to display GitHub stats, change the username to your account. 
+
 |   |
 |---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff) |
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&ring=73000a&fire=73000a&currStreakNum=7300a&currStreakLabel=73000a&border=true&border_color=73000a) |
+| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
 
 |    |    |
