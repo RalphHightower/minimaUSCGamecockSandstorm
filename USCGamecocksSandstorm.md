@@ -1,3 +1,5 @@
+# USC Gamecock Sandstorm Theme — Jekyll/Minima Themed
+
 | [Communications and Marketing - Communications and Marketing](https://sc.edu/about/offices_and_divisions/communications/index.php) / [University of South Carolina](https://www.sc.edu/) |
 |---|
 | [Brand Toolbox - Communications and Marketing / University of South Carolina](https://sc.edu/about/offices_and_divisions/communications/toolbox/index.php ) |
@@ -15,9 +17,9 @@
 | Warm Grey |HEX: #676156 |
 | Sandstorm | HEX: #FFF2E3 |
 
-[Ralph Hightower](https://ralphhightower.github.io/)[^21]
+## GitHub README Stats
 
-[^21]: footnote 2
+If you want to display GitHub stats, change the username to your account. 
 
 |   |
 |---|
