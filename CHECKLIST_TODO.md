@@ -1,6 +1,6 @@
 - [ ] Create README.md
 - [ ] Customize _config.yml
-- [ ] Create Issue Templates
 - [ ] Add LICENSE.txt
 - [ ] Add Code of Conduct
 - [ ] Add Security Policy 
+- [ ] Create Issue Templates
