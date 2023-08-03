@@ -15,10 +15,9 @@
 | Warm Grey |HEX: #676156 |
 | Sandstorm | HEX: #FFF2E3 |
 
-[Ralph Hightower](https://ralphhightower.github.io/)[^21]
+## Change username for stats
 
-[^21]: footnote 2
-
+If you want stats, change the username to your account. 
 |   |
 |---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff) |
