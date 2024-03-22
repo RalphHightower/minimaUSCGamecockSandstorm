@@ -106,32 +106,32 @@
 | Canon EOS 5D III | — | Own | — |
 | [Canon EOS R5 Mirrorless Camera](https://www.lensrentals.com/rent/canon-eos-r5)[^42] | $175.00 for 7 days | Rent[^42] |  [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Lens** |
-| [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^] 77mm O.D.  94mm | $101.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) | 
-| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^43] 52mm drop-in[^] O.D. 128mm | $419.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^43] 52mm drop-in[^] O.D. 128mm | $271.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^43] 52mm drop-in[^] O.D. 128mm | $239.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^43] 52mm drop-in[^] O.D. 163mm  | $458.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^43] 52mm drop-in[^] O.D. 146mm | $405.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in[^] O.D. 168mm | $471.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in[^] O.D. 168mm | $425.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 100-300mm f/2.8 L IS USM Lens](https://www.bhphotovideo.com/c/product/1762615-REG/canon_rf_100_300mm_f_2_8_l.html )[^44] 112mm O.D. 128mm | — | — | — |
-| [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^44] 77mm O.D. 93.8mm | $93.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^44] 95mm O.D. 102.3mm | $83.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in[^] O.D. 163mm | $440.00 / 7 days  | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in[^] O.D. 168mm | $471.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in[^] O.D. 163mm | $675.00 / 7 days ,| Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in[^] O.D. 168mm | $791.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^43] 77mm O.D. 94mm[^] | $101.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) | 
+| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^43] 52mm drop-in O.D. 128mm[^] | $419.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^43] 52mm drop-in O.D. 128mm[^] | $271.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^43] 52mm drop-in O.D. 128mm[^] | $239.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^43] 52mm drop-in O.D. 163mm[^52]  | $458.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^43] 52mm drop-in O.D. 146mm[^] | $405.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in O.D. 168mm[^52] | $471.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in[^] O.D. 168mm[^52] | $425.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 100-300mm f/2.8 L IS USM Lens](https://www.bhphotovideo.com/c/product/1762615-REG/canon_rf_100_300mm_f_2_8_l.html )[^44] 112mm O.D. 128mm[^] | — | — | — |
+| [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^44] 77mm O.D. 93.8mm[^] | $93.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^44] 95mm O.D. 102.3mm[^] | $83.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in O.D. 163mm[^52] | $440.00 / 7 days  | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in O.D. 168mm[^52] | $471.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in O.D. 163mm[^52] | $675.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in O.D. 168mm[^52] | $791.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Solar Filter** |
 | [DayStar Filters 90mm White-Light Universal Lens Solar ULF90-2](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html ) | $39.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^0] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^0] | $39.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^0] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^0] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^0] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^0] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^0] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^0] | $92.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^0] | $104.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^45] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^46] | $39.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^47] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^48] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^49] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^50] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^51] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^52] | $92.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^53] | $104.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^] | $1,495.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^] | $ | Buy[^] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Camera Remote Trigger** |
@@ -171,6 +171,15 @@
 [^42]: Rent if going for high megapixel range 45MP
 [^43]: Choose one if using DSLR 5D III
 [^44]: Choose one if using mirrorless R5
+[^45]: [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^0] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^46]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^0] | $39.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^47]: [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^0] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^48]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^0] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^49]: [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^0] | $79.95 Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^50]: [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^0] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^51]: [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^0] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^52]: [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^0] | $92.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^53]: [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^0] | $104.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 [^]: Hydrogen Alpha Filter.
 [^]: DayStar Hydrogen Alpha Filter needed accessories:
 [^]: Choose just one dark cloth.
