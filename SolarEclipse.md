@@ -148,7 +148,6 @@
 | [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^56]<sup>,</sup>[^57] | $81.95 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466423-REG/sky_watcher_s20110_az5_mount_with_steel.html )~~[^58]<sup>,</sup>[^58] | ~~$355.00~~ | ~~Buy~~ | ~~[B&H, NYC, NY](https://www.bhphotovideo.com/)~~ |
 | ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^] | $410.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^] | $65.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^] | $33.50 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
