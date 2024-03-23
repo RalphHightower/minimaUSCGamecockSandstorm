@@ -123,15 +123,15 @@
 | [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in O.D. 168mm[^51] | $791.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Solar Filter** |
 | [DayStar Filters 90mm White-Light Universal Lens Solar ULF90-2](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html ) | $39.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^45] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^46] | $39.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^47] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^48] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^49] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^50] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^51] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^52] | $92.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^53] | $104.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^45] | $49.95 | Buy[^45] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^46] | $39.95 | Buy[^46] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^47] | $49.95 | Buy[^47] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^48] | $69.95 | Buy[^48] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^49] | $79.95 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^50] | $69.95 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^51] | $79.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^52] | $92.95 | Buy[^52] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^53] | $104.95[^53] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^54] | $1,495.00 | Buy[^54] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^55] | $ | Buy[^] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Camera Remote Trigger** |
@@ -148,15 +148,15 @@
 | [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^56]<sup>,</sup>[^57] | $81.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | ~~Buy[^57]~~ | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^58]<sup>,</sup>[^65] | $410.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^59] | $65.00 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^59] | $33.50 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^59] | $79.99 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^58]<sup>,</sup>[^59] | $410.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^60] | $65.00 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^60] | $33.50 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^60] | $79.99 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$588.49*** | ***Total*** | |
 | [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^58] | $1,179.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^60] | $99.99 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^60] | $189.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^60] | $154.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^61] | $99.99 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^61] | $189.95 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^61] | $154.95 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$1623.89*** | ***Total*** | |
 | [iOptron SkyGuider Pro Camera Mount with AccuAlign (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1797123-REG/ioptron_3550p_skyguider_pro_with_precision.html )[^58] | $548.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^61] | $218.00 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
@@ -186,12 +186,12 @@
 [^56]: Choose just one dark cloth.
 [^57]: Setting up for the August 2017 Total Solar Eclipse, I couldn't locate the sun using the camera's viewfinder since the sun was so danged bright. I ended up draping a windbreaker over the camera (not the lens) to block out the sunlight. This dark cloth, typically used for focusing 4×5 to 8×10 view cameras, will be handy. It's silver on one side to reflect the light and heat, and black on the other side to block out the brightness of the sun, and the surrounding area. 
 [^58]: Choose just one tracking configuration.
-[^59]: If Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420 is chosen, purchase these items also.
-[^60]: If Celestron Advanced VX GoTo German Equatorial Mount is chosen, purchase these items also.
-[^61]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
+[^59]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
+[^60]: If [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html ) is chosen, purchase these items also.
+[^61]: If [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html ) is chosen, purchase these items also.
 [^62]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
-[^63]: Choose just one software controller.
-[^64]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
-[^65]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
+[^63]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
+[^64]: Choose just one software controller.
+[^65]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
 
 {{ article.published_at | date: "%a, %b %d, %y" }}
