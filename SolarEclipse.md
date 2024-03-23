@@ -132,8 +132,8 @@
 | [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^51] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^52] | $92.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^53] | $104.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^] | $1,495.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^] | $ | Buy[^] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^54] | $1,495.00 | Buy[^54] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^55] | $ | Buy[^] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Camera Remote Trigger** |
 | [Vello FreeWave Plus II Wireless Remote Shutter Release FWP-C B&H](https://www.bhphotovideo.com/c/product/1619633-REG/vello_fwp_c_wireless_shutter_release_for.html ) | $59.99 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Vello ShutterBoss II Timer Remote Switch for Cameras RC-C2II B&H](https://www.bhphotovideo.com/c/product/840098-REG/Vello_rc_c2ii_Shutterboss_Version_II_Timer.html ) | $49.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
@@ -146,39 +146,41 @@
 | [Tele Vue Sol-Searcher Finderscope SSF-1006 B&H Photo Video](https://www.bhphotovideo.com/c/product/329861-REG/Tele_Vue_SSF_1006_Sol_Searcher_Finderscope.html ) | $45.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Harrison Silver Classic Dark Cloth - Small](https://www.bhphotovideo.com/c/product/446774-REG/Harrison_2035_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $67.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^56]<sup>,</sup>[^57] | $81.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | ~~Buy[^57]~~ | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^58] | $410.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^59] | $65.00 | Buy[59^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^58]<sup>,</sup>[^65] | $410.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^59] | $65.00 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^59] | $33.50 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^] | $79.99 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^59] | $79.99 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$588.49*** | ***Total*** | |
 | [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^58] | $1,179.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^60] | $99.99 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^60] | $99.99 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^60] | $189.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^60] | $154.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$1623.89*** | ***Total*** | |
-| [iOptron SkyGuider Pro EQ Camera Mount 3550 B&H Photo Video](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^58] | $398.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [iOptron 1.25" Stainless Steel Tripod for SkyHunter / iPANO /](https://www.bhphotovideo.com/c/product/1677938-REG/ioptron_3221_1_25_stainless_steel_tripod.html )[^] | $99.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-|  | ***$497.00*** | ***Total*** | |
+| [iOptron SkyGuider Pro Camera Mount with AccuAlign (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1797123-REG/ioptron_3550p_skyguider_pro_with_precision.html )[^58] | $548.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^61] | $218.00 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| | ***766.00*** | ***Total*** |
+| [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html )[^58] | $638.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^62] | $856.00 | Buy[^62] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Eclipse Orchestration Software** |
-| [DayStar Filters Eclipse Orchestrator Pro 3.7 Camera Control Software (Boxed CD)](https://www.bhphotovideo.com/c/product/1345652-REG/daystar_filters_eopro_eclipse_orchestrator_pro.html )[^62] | $109.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^62] | $109.00 USD | |
-| [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^62] |  | 
+| [DayStar Filters Eclipse Orchestrator Pro 3.7 Camera Control Software (Boxed CD)](https://www.bhphotovideo.com/c/product/1345652-REG/daystar_filters_eopro_eclipse_orchestrator_pro.html )[^63] | $109.00 | Buy[^63] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^63] | $109.00 USD | |
+| [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^63] |  | 
 
 [^41]: [Facebook](https://www.facebook.com/) Do not, as one of my Facebook friends characterized your big **WTF** systemwide of removing content for no reason at all, *"Facebook! You're drunk!"* ***I ain't selling anything! The equipment listed are:<br />1) Items that I own, and am not going to part with, i.e., sell;<br />2) Items that I am considering for purchasing;<br />3) Items that I am going to rent.***
 [^42]: Rent if going for high megapixel range 45MP
 [^43]: Choose one if using DSLR 5D III
 [^44]: Choose one if using mirrorless R5
-[^45]: [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^0] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^46]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^0] | $39.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^47]: [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^0] | $49.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^48]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^0] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^49]: [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^0] | $79.95 Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^50]: [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^0] | $69.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^51]: [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^0] | $79.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^52]: [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^0] | $92.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-[^53]: [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^0] | $104.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^45]: [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )
+[^46]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )
+[^47]: [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )
+[^48]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )
+[^49]: [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )
+[^50]: [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )
+[^51]: [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )
+[^52]: [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )
+[^53]: [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )
 [^54]: Hydrogen Alpha Filter.
 [^55]: DayStar Hydrogen Alpha Filter needed accessories:
 [^56]: Choose just one dark cloth.
@@ -186,9 +188,10 @@
 [^58]: Choose just one tracking configuration.
 [^59]: If Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420 is chosen, purchase these items also.
 [^60]: If Celestron Advanced VX GoTo German Equatorial Mount is chosen, purchase these items also.
-[^61]: If iOptron SkyGuider Pro EQ Camera Mount is chosen, select these items also.
-[^62]: Choose just one software controller.
-[^63]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
-[^64]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
+[^61]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
+[^62]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
+[^63]: Choose just one software controller.
+[^64]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
+[^65]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
 
 {{ article.published_at | date: "%a, %b %d, %y" }}
