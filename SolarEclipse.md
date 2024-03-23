@@ -144,21 +144,21 @@
 | [ProTapes Pro Gaffer Tape (2" x 55 yd, White) 001UPCG255MWHT B&H](https://www.bhphotovideo.com/c/product/812216-REG/General_Brand_001UPCG255MWHT_Gereral_Brands_Pro_Gaffer_s.html ) | $19.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Sighting** |
 | [Tele Vue Sol-Searcher Finderscope SSF-1006 B&H Photo Video](https://www.bhphotovideo.com/c/product/329861-REG/Tele_Vue_SSF_1006_Sol_Searcher_Finderscope.html ) | $45.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Silver Classic Dark Cloth - Small](https://www.bhphotovideo.com/c/product/446774-REG/Harrison_2035_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $67.95 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^56]<sup>,</sup>[^57] | $81.95 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Silver Classic Dark Cloth - Small](https://www.bhphotovideo.com/c/product/446774-REG/Harrison_2035_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $67.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^56]<sup>,</sup>[^57] | $81.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^] | $410.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^] | $65.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^] | $33.50 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )[^] | $79.99 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^58] | $410.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^59] | $65.00 | Buy[59^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^59] | $33.50 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^] | $79.99 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$588.49*** | ***Total*** | |
-| [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^58] | $1,179.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )[^] | $79.99 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^] | $99.99 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^] | $189.95 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-|  | ***$1548.93*** | ***Total*** | |
-| [iOptron SkyGuider Pro EQ Camera Mount 3550 B&H Photo Video](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^58] | $398.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^58] | $1,179.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^60] | $99.99 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^60] | $189.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^60] | $154.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+|  | ***$1623.89*** | ***Total*** | |
+| [iOptron SkyGuider Pro EQ Camera Mount 3550 B&H Photo Video](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^58] | $398.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [iOptron 1.25" Stainless Steel Tripod for SkyHunter / iPANO /](https://www.bhphotovideo.com/c/product/1677938-REG/ioptron_3221_1_25_stainless_steel_tripod.html )[^] | $99.00 | Buy[^] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$497.00*** | ***Total*** | |
 | **Eclipse Orchestration Software** |
