@@ -107,20 +107,20 @@
 | [Canon EOS R5 Mirrorless Camera](https://www.lensrentals.com/rent/canon-eos-r5)[^42] | $175.00 for 7 days | Rent[^42] |  [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Lens** |
 | [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^43] 77mm O.D. 94mm[^46] | $101.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) | 
-| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^43] 52mm drop-in O.D. 128mm[^48] | $419.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^43] 52mm drop-in O.D. 128mm[^48] | $271.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^43] 52mm drop-in O.D. 128mm[^48] | $239.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^43] 52mm drop-in O.D. 163mm[^51]  | $458.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^43] 52mm drop-in O.D. 146mm[^51] | $405.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in O.D. 168mm[^51] | $471.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in[^] O.D. 168mm[^51] | $425.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^43] 52mm drop-in[^65] O.D. 128mm[^48] | $419.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^43] 52mm drop-in[^65] O.D. 128mm[^48] | $271.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^43] 52mm drop-in[^65] O.D. 128mm[^48] | $239.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^43] 52mm drop-in[^65] O.D. 163mm[^51]  | $458.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^43] 52mm drop-in[^65] O.D. 146mm[^51] | $405.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in[^65] O.D. 168mm[^51] | $471.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in[^65] O.D. 168mm[^51] | $425.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | [Canon RF 100-300mm f/2.8 L IS USM Lens](https://www.bhphotovideo.com/c/product/1762615-REG/canon_rf_100_300mm_f_2_8_l.html )[^44] 112mm O.D. 128mm[^48] | — | — | — |
 | [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^44] 77mm O.D. 93.8mm[^46] | $93.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^44] 95mm O.D. 102.3mm[^48] | $83.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in O.D. 163mm[^51] | $440.00 / 7 days  | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in O.D. 168mm[^51] | $471.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in O.D. 163mm[^51] | $675.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in O.D. 168mm[^51] | $791.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in O.D.[^65] 163mm[^51] | $440.00 / 7 days  | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in[^65] O.D. 168mm[^51] | $471.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in[^65] O.D. 163mm[^51] | $675.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in[^65] O.D. 168mm[^51] | $791.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Solar Filter** |
 | [DayStar Filters 90mm White-Light Universal Lens Solar ULF90-2](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html ) | $39.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^45] | $49.95 | Buy[^45] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
@@ -160,9 +160,10 @@
 |  | ***$1623.89*** | ***Total*** | |
 | [iOptron SkyGuider Pro Camera Mount with AccuAlign (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1797123-REG/ioptron_3550p_skyguider_pro_with_precision.html )[^58] | $548.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^61] | $218.00 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| | ***766.00*** | ***Total*** |
+| | ***766.00*** | ***Total*** | |
 | [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html )[^58] | $638.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^62] | $856.00 | Buy[^62] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^62] | $218.00 | Buy[^62] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| | ***$856.00*** | ***Total*** | |
 | **Eclipse Orchestration Software** |
 | [DayStar Filters Eclipse Orchestrator Pro 3.7 Camera Control Software (Boxed CD)](https://www.bhphotovideo.com/c/product/1345652-REG/daystar_filters_eopro_eclipse_orchestrator_pro.html )[^63] | $109.00 | Buy[^63] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^63] | $109.00 USD | |
@@ -192,6 +193,6 @@
 [^62]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
 [^63]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
 [^64]: Choose just one software controller.
-[^65]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
+[^65]: On this Canon page [Photographing the Total Eclipse / Canon U.S.A., Inc.](https://www.usa.canon.com/learning/training-articles/training-articles-list/photographing-an-eclipse ) is a very Stern warning: <br >**Don’t Use the Rear Filter Tray**<br />Most of the large Canon L-series super-telephoto lenses have a rear mounted slip-in filter tray. NEVER use a solar filter in this tray. This filter mounting system is designed for terrestrial photography using traditional photography filters. It is not designed to house a filter to be directed celestially into the sun. At these magnifications, you will destroy the filter — similar to taking a magnifying glass to a leaf and put your lens, sensor and your eyes in danger. The intense light and heat could fry aperture and image stabilization mechanisms, damage the autofocus sensor and, if the mirror is locked up ruin your sensor. Buy the correct front-mounted solar filter. They’re relatively inexpensive and completely safe.
 
 {{ article.published_at | date: "%a, %b %d, %y" }}
