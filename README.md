@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # USC Gamecock Sandstorm Theme — Jekyll/Minima Themed
 
 | [Communications and Marketing - Communications and Marketing](https://sc.edu/about/offices_and_divisions/communications/index.php) / [University of South Carolina](https://www.sc.edu/) |
