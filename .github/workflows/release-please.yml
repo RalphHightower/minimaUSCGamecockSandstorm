@@ -5,9 +5,16 @@ on:
       - main
 
 permissions:
-  pull-requests: write
-
-name: release-please
+  actions: read
+  checks: read
+  contents: read
+  deployments: read
+  issues: read
+  packages: read
+  pull-requests: read
+  repository-projects: none
+  security-events: read
+  statuses: read
 
 jobs:
   release-please:
