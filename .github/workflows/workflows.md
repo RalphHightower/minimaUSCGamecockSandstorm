@@ -8,7 +8,7 @@ title: GitHub Workflows
 
 | action | date | github |
 |---|---|---|
-| DavidAnson/markdownlint-cli2-action@v18.0.0 | Nov 14, 2024 |[DavidAnson/markdownlint-cli2-action: A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library](https://github.com/DavidAnson/markdownlint-cli2-action) |
+| DavidAnson/markdownlint-cli2-action@v19 Ser.0.0 | Nov 1 v4, 2024 |[DavidAnson/markdownlint-cli2-action: A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library](https://github.com/DavidAnson/markdownlint-cli2-action) |
 | GitHubSecurityLab/actions-permissions/advisor@v1.0.2-beta5 | Dec 19, 2024 | [GitHubSecurityLab/actions-permissions: GitHub token permissions Monitor and Advisor actions](https://github.com/GitHubSecurityLab/actions-permissions) |
 | actions/checkout@v4.2.2 | Oct 23, 2024 | [actions/checkout: Action for checking out a repo](https://github.com/actions/checkout) |
 | actions/configure-pages@v5.0.0 | Mar 29, 2024 | [actions/configure-pages: An action to enable Pages and extract various metadata about a site. It can also be used to configure various static site generators we support as starter workflows.](https://github.com/actions/configure-pages) |
