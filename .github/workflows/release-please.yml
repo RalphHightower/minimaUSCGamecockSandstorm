@@ -5,18 +5,16 @@ on:
       - main
 
 permissions:
-  actions: none
-  checks: none
-  contents: none
-  deployments: none
-  issues: none
-  packages: none
-  pull-requests: none
+  actions: read
+  checks: read
+  contents: read
+  deployments: read
+  issues: read
+  packages: read
+  pull-requests: read
   repository-projects: none
-  security-events: none
-  statuses: none
-  
-name: release-please
+  security-events: read
+  statuses: read
 
 jobs:
   release-please:
