@@ -16,8 +16,6 @@ permissions:
   security-events: none
   statuses: none
   
-name: release-please
-
 jobs:
   release-please:
     runs-on: ubuntu-latest
