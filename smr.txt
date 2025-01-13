@@ -1,0 +1,133 @@
+semantic-release
+Automated semver compliant package publishing
+Version 24.2.1 published 2025-01-03 by semantic-release-bot
+Maintainers: pvdlg semantic-release-bot gr2m travi
+Keywords: author automation changelog module package publish release semver version
+https://npm.im/semantic-release
+
+@semantic-release/npm
+semantic-release plugin to publish a npm package
+Version 12.0.1 published 2024-05-09 by semantic-release-bot
+Maintainers: travi pvdlg semantic-release-bot gr2m
+Keywords: npm publish registry semantic-release version
+https://npm.im/@semantic-release/npm
+
+@semantic-release/commit-analyzer
+semantic-release plugin to analyze commits with conventional-changelog
+Version 13.0.1 published 2025-01-03 by semantic-release-bot
+Maintainers: pvdlg semantic-release-bot gr2m travi
+Keywords: changelog commit-analyzer conventional-changelog conventional-commits github publish release semantic-release
+https://npm.im/@semantic-release/commit-analyzer
+
+@semantic-release/changelog
+semantic-release plugin to create or update a changelog file
+Version 6.0.3 published 2023-03-23 by semantic-release-bot
+Maintainers: travi pvdlg semantic-release-bot gr2m
+Keywords: changelog conventional-changelog release semantic-release version
+https://npm.im/@semantic-release/changelog
+
+@semantic-release/exec
+semantic-release plugin to run custom shell commands
+Version 6.0.3 published 2021-12-15 by semantic-release-bot
+Maintainers: travi pvdlg semantic-release-bot gr2m
+Keywords: cli publish release script semantic-release shell version
+https://npm.im/@semantic-release/exec
+
+@semantic-release/release-notes-generator
+semantic-release plugin to generate changelog content with conventional-changelog
+Version 14.0.3 published 2025-01-03 by semantic-release-bot
+Maintainers: pvdlg semantic-release-bot gr2m travi
+Keywords: changelog conventional-changelog conventional-commits github publish release release-note-generator semantic-release
+https://npm.im/@semantic-release/release-notes-generator
+
+@semantic-release/gitlab
+semantic-release plugin to publish a GitLab release
+Version 13.2.4 published 2025-01-13 by semantic-release-bot
+Maintainers: pvdlg semantic-release-bot gr2m travi
+Keywords: git gitlab publish release semantic-release version
+https://npm.im/@semantic-release/gitlab
+
+@types/semantic-release
+TypeScript definitions for semantic-release
+Version 20.0.6 published 2023-11-21 by types
+Maintainers: types
+https://npm.im/@types/semantic-release
+
+@semantic-release/git
+semantic-release plugin to commit release assets to the project's git repository
+Version 10.0.1 published 2021-10-30 by semantic-release-bot
+Maintainers: travi pvdlg semantic-release-bot gr2m
+Keywords: changelog commit conventional-changelog conventional-commits git release semantic-release version
+https://npm.im/@semantic-release/git
+
+bunyan-debug-stream
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+Version 3.1.0 published 2022-08-31 by jwalton
+Maintainers: jwalton
+Keywords: bunyan debug stream stdout error log pretty
+https://npm.im/bunyan-debug-stream
+
+@semantic-release/github
+semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
+Version 11.0.1 published 2024-11-06 by semantic-release-bot
+Maintainers: travi pvdlg semantic-release-bot gr2m
+Keywords: git github issue notifications publish pull-request release semantic-release version
+https://npm.im/@semantic-release/github
+
+semantic-release-plugin-decorators
+![Tests workflow](https://github.com/pmowrer/semantic-release-plugin-decorators/actions/workflows/tests.yml/badge.svg) [![npm](https://img.shields.io/npm/v/semantic-release-plugin-decorators.svg)](https://www.npmjs.com/package/semantic-release-plugin-deco
+Version 4.0.0 published 2024-01-17 by pmowrer
+Maintainers: pmowrer
+https://npm.im/semantic-release-plugin-decorators
+
+semantic-release-replace-plugin
+Semantic Release Replace Plugin
+Version 1.2.7 published 2023-07-20 by jpoehnelt
+Maintainers: jpoehnelt
+Keywords: semantic-release node replace
+https://npm.im/semantic-release-replace-plugin
+
+semantic-release-jira-releases
+[**semantic-release**](https://github.com/semantic-release/semantic-release) plugin to publish a jira release.
+Version 0.7.2 published 2020-07-21 by gabrielcastro
+Maintainers: gabrielcastro rhamzeh
+https://npm.im/semantic-release-jira-releases
+
+semantic-release-slack-bot
+A slack bot for semantic-release notifying release statuses
+Version 4.0.2 published 2023-05-22 by jcelik
+Maintainers: jcelik hrabo
+Keywords: semantic-release slack bot slack-bot release-notification release ci
+https://npm.im/semantic-release-slack-bot
+
+@qiwi/multi-semantic-release
+hacky [semantic-release](https://github.com/semantic-release/semantic-release) for monorepos
+Version 7.1.2 published 2024-07-28 by qiwibot
+Maintainers: antongolub qiwibot
+https://npm.im/@qiwi/multi-semantic-release
+
+semantic-release-config-gitmoji
+a gitmoji commit style presets for semantic-release
+Version 1.5.3 published 2023-06-12 by arvinxx
+Maintainers: arvinxx
+Keywords: conventional-changelog gitmoji preset changelog emoji semantic-release
+https://npm.im/semantic-release-config-gitmoji
+
+@theunderscorer/nx-semantic-release
+Semantic release for NX.
+Version 2.12.0 published 2024-08-17 by theunderscorer
+Maintainers: theunderscorer
+https://npm.im/@theunderscorer/nx-semantic-release
+
+semantic-release-monorepo
+Plugins for `semantic-release` allowing it to be used with a monorepo.
+Version 8.0.2 published 2024-02-05 by pmowrer
+Maintainers: pmowrer
+https://npm.im/semantic-release-monorepo
+
+multi-semantic-release
+[![Travis CI](https://travis-ci.com/dhoulb/multi-semantic-release.svg?branch=master)](https://travis-ci.com/dhoulb/multi-semantic-release) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=
+Version 3.0.2 published 2023-03-14 by dhoulb
+Maintainers: dhoulb antongolub
+https://npm.im/multi-semantic-release
+
