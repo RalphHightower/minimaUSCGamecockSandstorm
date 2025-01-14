@@ -1,0 +1,136 @@
+markdownlint-cli2-formatter-default
+An output formatter for markdownlint-cli2 that produces the same output as markdownlint-cli
+Version 0.0.5 published 2024-09-06 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-default
+
+markdownlint-cli2
+A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the `markdownlint` library
+Version 0.17.1 published 2024-12-31 by davidanson
+Maintainers: davidanson
+Keywords: markdown lint cli md CommonMark markdownlint
+https://npm.im/markdownlint-cli2
+
+markdownlint
+A Node.js style checker and lint tool for Markdown/CommonMark files.
+Version 0.37.3 published 2024-12-31 by davidanson
+Maintainers: davidanson
+Keywords: markdown lint md CommonMark markdownlint
+https://npm.im/markdownlint
+
+markdownlint-cli2-formatter-codequality
+An output formatter for markdownlint-cli2 that writes results to a GitLab Code Quality report artifact JSON file
+Version 0.0.5 published 2024-09-06 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-codequality
+
+markdownlint-cli2-formatter-pretty
+An output formatter for markdownlint-cli2 that looks like markdownlint-cli2-formatter-default with color and clickable links
+Version 0.0.7 published 2024-09-06 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-pretty
+
+markdownlint-cli2-formatter-summarize
+An output formatter for markdownlint-cli2 that summarizes the results
+Version 0.0.7 published 2024-09-06 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-summarize
+
+markdownlint-cli2-formatter-sarif
+An output formatter for markdownlint-cli2 that writes results to a file in Static Analysis Results Interchange Format/SARIF
+Version 0.0.3 published 2024-12-13 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-sarif
+
+markdownlint-cli2-formatter-junit
+An output formatter for markdownlint-cli2 that writes results to a file in JUnit XML format
+Version 0.0.12 published 2024-09-06 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-junit
+
+markdownlint-cli2-formatter-json
+An output formatter for markdownlint-cli2 that writes results to a file in JSON format
+Version 0.0.8 published 2024-09-06 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-json
+
+default-gateway
+Get the default network gateway, cross-platform.
+Version 7.2.2 published 2023-06-10 by silverwind
+Maintainers: silverwind
+https://npm.im/default-gateway
+
+@github/markdownlint-github
+An opinionated collection of markdownlint rules used by GitHub.
+Version 0.6.3 published 2024-05-06 by githubbot
+Maintainers: manuelpuyol jonrohan broccolini primer-css keithamus gracepark jibrangarcia arelia colebemis smockle simurai khiga8 dustin.greif srt32 githubbot jfuchs andrialexandrou bteng22 dustin.savery
+Keywords: markdownlint-rule
+https://npm.im/@github/markdownlint-github
+
+markdownlint-rule-extended-ascii
+A markdownlint rule that allows only extended ASCII characters
+Version 0.1.0 published 2024-05-14 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-rule markdownlint markdown ascii lint
+https://npm.im/markdownlint-rule-extended-ascii
+
+markdownlint-cli2-formatter-template
+An output formatter for markdownlint-cli2 that displays results using a template
+Version 0.0.2 published 2024-11-09 by davidanson
+Maintainers: davidanson
+Keywords: markdownlint-cli2-formatter
+https://npm.im/markdownlint-cli2-formatter-template
+
+@fisker/markdownlint-cli2-config
+fisker's Shareable markdownlint-cli2 Configuration
+Version 0.0.3 published 2022-04-20 by fisker
+Maintainers: fisker
+Keywords: fisker prettier
+https://npm.im/@fisker/markdownlint-cli2-config
+
+random-int
+Generate a random integer
+Version 3.0.0 published 2021-04-17 by sindresorhus
+Maintainers: sindresorhus
+Keywords: random randomize int integer number max min math generate generator
+https://npm.im/random-int
+
+uuid-int
+uuid-int for nodejs
+Version 3.1.0 published 2021-06-12 by wbget
+Maintainers: wbget
+Keywords: uuid-int snowflake uuid int integer
+https://npm.im/uuid-int
+
+max-array-length
+Return the maximum length of array in JavaScript.
+Version 1.0.0 published 2016-04-22 by bubkoo
+Maintainers: bubkoo
+https://npm.im/max-array-length
+
+base-convert-int-array
+Converts arrays of integers from one base to another. Uses an O(N²) algorithm.
+Version 1.0.1 published 2018-09-13 by novemberborn
+Maintainers: novemberborn
+Keywords: base62 base36 buffer binary conversion base
+https://npm.im/base-convert-int-array
+
+odata-query
+OData v4 query builder that uses a simple object-based syntax similar to MongoDB and js-data
+Version 7.0.8 published 2025-01-08 by techniq
+Maintainers: techniq
+https://npm.im/odata-query
+
+@artilleryio/int-core
+@artilleryio/int-core
+Version 2.17.0 published 2025-01-13 by shoreditch-ops
+Maintainers: hhvhhv shoreditch-ops
+https://npm.im/@artilleryio/int-core
+
