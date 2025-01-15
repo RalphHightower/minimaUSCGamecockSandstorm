@@ -105,7 +105,7 @@
     "is-glob": "^4.0.3",
     "is-hexadecimal": "^2.0.1",
     "is-number": "^7.0.0",
-    "is-obj": "^2.0.0",
+    "is-obj": "^3.0.0",
     "is-plain-obj": "^4.1.0",
     "is-stream": "^4.0.1",
     "is-unicode-supported": "^2.1.0",
