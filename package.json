@@ -184,7 +184,7 @@
     "p-locate": "^2.0.0",
     "p-map": "^7.0.3",
     "p-reduce": "^3.0.0",
-    "p-try": "^1.0.0",
+    "p-try": "^3.0.0",
     "parent-module": "^1.0.1",
     "parse-entities": "^4.0.2",
     "parse-json": "^5.2.0",
