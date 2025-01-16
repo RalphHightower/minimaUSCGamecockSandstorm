@@ -230,7 +230,7 @@
     "spdx-license-ids": "^3.0.20",
     "split2": "^1.0.0",
     "stream-combiner2": "^1.1.1",
-    "string-width": "^4.2.3",
+    "string-width": "^7.2.0",
     "string_decoder": "^1.1.1",
     "strip-ansi": "^6.0.1",
     "strip-bom": "^3.0.0",
