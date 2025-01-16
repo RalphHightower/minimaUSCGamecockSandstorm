@@ -67,7 +67,7 @@
     "fastq": "^1.18.0",
     "figures": "^6.1.0",
     "fill-range": "^7.1.1",
-    "find-up": "^2.1.0",
+    "find-up": "^7.0.0",
     "find-up-simple": "^1.0.0",
     "find-versions": "^6.0.0",
     "from2": "^2.3.0",
