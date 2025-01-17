@@ -187,7 +187,7 @@
     "p-try": "^3.0.0",
     "parent-module": "^1.0.1",
     "parse-entities": "^4.0.2",
-    "parse-json": "^5.2.0",
+    "parse-json": "^8.1.0",
     "parse-ms": "^4.0.0",
     "parse5": "^5.1.1",
     "parse5-htmlparser2-tree-adapter": "^6.0.1",
