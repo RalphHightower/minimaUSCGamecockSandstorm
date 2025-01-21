@@ -109,7 +109,7 @@
     "is-plain-obj": "^4.1.0",
     "is-stream": "^4.0.1",
     "is-unicode-supported": "^2.1.0",
-    "isarray": "^1.0.0",
+    "isarray": "^2.0.5",
     "isexe": "^2.0.0",
     "issue-parser": "^7.0.1",
     "java-properties": "^1.0.2",
