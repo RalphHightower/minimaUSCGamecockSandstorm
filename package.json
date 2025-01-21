@@ -98,7 +98,7 @@
     "into-stream": "^7.0.0",
     "is-alphabetical": "^2.0.1",
     "is-alphanumerical": "^2.0.1",
-    "is-arrayish": "^0.2.1",
+    "is-arrayish": "^0.3.2",
     "is-decimal": "^2.0.1",
     "is-extglob": "^2.1.1",
     "is-fullwidth-code-point": "^3.0.0",
