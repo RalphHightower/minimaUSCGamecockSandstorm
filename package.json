@@ -129,7 +129,7 @@
     "lodash.isplainobject": "^4.0.6",
     "lodash.isstring": "^4.0.1",
     "lodash.uniqby": "^4.7.0",
-    "lru-cache": "^10.4.3",
+    "lru-cache": "^11.0.2",
     "markdown-it": "^14.1.0",
     "marked": "^14.1.4",
     "marked-terminal": "^7.2.1",
