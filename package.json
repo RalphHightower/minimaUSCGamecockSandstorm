@@ -233,7 +233,7 @@
     "string-width": "^7.2.0",
     "string_decoder": "^1.1.1",
     "strip-ansi": "^6.0.1",
-    "strip-bom": "^3.0.0",
+    "strip-bom": "^5.0.0",
     "strip-final-newline": "^4.0.0",
     "strip-json-comments": "^2.0.1",
     "super-regex": "^1.0.0",
