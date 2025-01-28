@@ -80,7 +80,7 @@
     "globby": "^14.0.2",
     "graceful-fs": "^4.2.11",
     "handlebars": "^4.7.8",
-    "has-flag": "^4.0.0",
+    "has-flag": "^5.0.1",
     "highlight.js": "^11.11.1",
     "hook-std": "^3.0.0",
     "hosted-git-info": "^8.0.2",
