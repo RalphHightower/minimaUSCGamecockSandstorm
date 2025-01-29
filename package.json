@@ -206,7 +206,7 @@
     "rc": "^1.2.8",
     "read-package-up": "^11.0.0",
     "read-pkg": "^9.0.1",
-    "readable-stream": "^2.3.8",
+    "readable-stream": "^4.7.0",
     "registry-auth-token": "^5.0.3",
     "require-directory": "^2.1.1",
     "resolve-from": "^5.0.0",
