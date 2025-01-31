@@ -31,7 +31,7 @@
     "cli-table3": "^0.6.5",
     "cliui": "^8.0.1",
     "color-convert": "^2.0.1",
-    "color-name": "^1.1.4",
+    "color-name": "^2.0.0",
     "commander": "^8.3.0",
     "compare-func": "^2.0.0",
     "config-chain": "^1.1.13",
