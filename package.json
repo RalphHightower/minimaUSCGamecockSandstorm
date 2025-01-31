@@ -131,7 +131,7 @@
     "lodash.uniqby": "^4.7.0",
     "lru-cache": "^11.0.2",
     "markdown-it": "^14.1.0",
-    "marked": "^14.1.4",
+    "marked": "^15.0.6",
     "marked-terminal": "^7.2.1",
     "mdurl": "^2.0.0",
     "meow": "^13.2.0",
