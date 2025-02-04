@@ -243,7 +243,7 @@
     "tempy": "^3.1.0",
     "thenify": "^3.3.1",
     "thenify-all": "^1.6.0",
-    "through2": "^2.0.5",
+    "through2": "^4.0.2",
     "time-span": "^5.1.0",
     "to-regex-range": "^5.0.1",
     "traverse": "^0.6.8",
