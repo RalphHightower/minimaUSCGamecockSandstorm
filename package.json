@@ -195,7 +195,7 @@
     "path-key": "^4.0.0",
     "path-type": "^6.0.0",
     "picocolors": "^1.1.1",
-    "picomatch": "^2.3.1",
+    "picomatch": "^4.0.2",
     "pify": "^6.1.0",
     "pkg-conf": "^5.0.0",
     "pretty-ms": "^9.2.0",
