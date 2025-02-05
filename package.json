@@ -232,7 +232,7 @@
     "stream-combiner2": "^1.1.1",
     "string-width": "^7.2.0",
     "string_decoder": "^1.1.1",
-    "strip-ansi": "^6.0.1",
+    "strip-ansi": "^7.1.0",
     "strip-bom": "^5.0.0",
     "strip-final-newline": "^4.0.0",
     "strip-json-comments": "^5.0.1",
