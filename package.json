@@ -110,7 +110,7 @@
     "is-stream": "^4.0.1",
     "is-unicode-supported": "^2.1.0",
     "isarray": "^2.0.5",
-    "isexe": "^2.0.0",
+    "isexe": "^3.1.1",
     "issue-parser": "^7.0.1",
     "java-properties": "^1.0.2",
     "js-tokens": "^9.0.1",
