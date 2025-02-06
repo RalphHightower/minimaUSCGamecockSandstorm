@@ -30,7 +30,7 @@
     "cli-highlight": "^2.1.11",
     "cli-table3": "^0.6.5",
     "cliui": "^8.0.1",
-    "color-convert": "^2.0.1",
+    "color-convert": "^3.0.0",
     "color-name": "^2.0.0",
     "commander": "^13.1.0",
     "compare-func": "^2.0.0",
