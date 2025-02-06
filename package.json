@@ -176,7 +176,7 @@
     "npm": "^10.9.2",
     "npm-run-path": "^6.0.0",
     "object-assign": "^4.1.1",
-    "onetime": "^6.0.0",
+    "onetime": "^7.0.0",
     "p-each-series": "^3.0.0",
     "p-filter": "^4.1.0",
     "p-is-promise": "^4.0.0",
