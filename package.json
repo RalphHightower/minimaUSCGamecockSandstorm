@@ -62,7 +62,7 @@
     "escalade": "^3.2.0",
     "escape-string-regexp": "^5.0.0",
     "execa": "^9.5.2",
-    "fast-content-type-parse": "^2.0.0",
+    "fast-content-type-parse": "^3.0.0",
     "fast-glob": "^3.3.2",
     "fastq": "^1.18.0",
     "figures": "^6.1.0",
