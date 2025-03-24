@@ -23,7 +23,7 @@ jobs:
           repository: jekyll/minima
           ref: demo-site
       - name: Set up Ruby 2.7
-        uses: ruby/setup-ruby@v1.226.0
+        uses: ruby/setup-ruby@v1.227.0
         with:
           ruby-version: 2.7
           bundler-cache: true
