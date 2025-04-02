@@ -238,7 +238,7 @@
     "strip-json-comments": "^5.0.1",
     "super-regex": "^1.0.0",
     "supports-color": "^10.0.0",
-    "supports-hyperlinks": "^3.1.0",
+    "supports-hyperlinks": "^4.0.0",
     "temp-dir": "^3.0.0",
     "tempy": "^3.1.0",
     "thenify": "^3.3.1",
