@@ -17,7 +17,7 @@
     "argparse": "^2.0.1",
     "argv-formatter": "^1.0.0",
     "array-ify": "^1.0.0",
-    "before-after-hook": "^3.0.2",
+    "before-after-hook": "^4.0.0",
     "bottleneck": "^2.19.5",
     "braces": "^3.0.3",
     "callsites": "^4.2.0",
