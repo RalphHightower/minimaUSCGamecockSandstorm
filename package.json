@@ -189,7 +189,7 @@
     "parse-entities": "^4.0.2",
     "parse-json": "^8.1.0",
     "parse-ms": "^4.0.0",
-    "parse5": "^7.2.1",
+    "parse5": "^8.0.0",
     "parse5-htmlparser2-tree-adapter": "^8.0.0",
     "path-exists": "^5.0.0",
     "path-key": "^4.0.0",
