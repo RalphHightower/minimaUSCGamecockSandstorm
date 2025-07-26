@@ -83,7 +83,7 @@
     "has-flag": "^5.0.1",
     "highlight.js": "^11.11.1",
     "hook-std": "^3.0.0",
-    "hosted-git-info": "^8.0.2",
+    "hosted-git-info": "^9.0.0",
     "http-proxy-agent": "^7.0.2",
     "https-proxy-agent": "^7.0.6",
     "human-signals": "^8.0.0",
