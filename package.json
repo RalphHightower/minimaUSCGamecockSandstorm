@@ -134,7 +134,7 @@
     "marked": "^16.0.0",
     "marked-terminal": "^7.2.1",
     "mdurl": "^2.0.0",
-    "meow": "^13.2.0",
+    "meow": "^14.0.0",
     "merge-stream": "^2.0.0",
     "merge2": "^1.4.1",
     "micromark": "^4.0.1",
