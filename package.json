@@ -214,7 +214,7 @@
     "run-parallel": "^1.2.0",
     "safe-buffer": "^5.1.2",
     "semver": "^7.6.3",
-    "semver-diff": "^4.0.0",
+    "semver-diff": "^5.0.0",
     "semver-regex": "^4.0.5",
     "shebang-command": "^2.0.0",
     "shebang-regex": "^4.0.0",
