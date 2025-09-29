@@ -77,7 +77,7 @@
     "get-stream": "^9.0.1",
     "git-log-parser": "^1.2.1",
     "glob-parent": "^6.0.2",
-    "globby": "^14.0.2",
+    "globby": "^15.0.0",
     "graceful-fs": "^4.2.11",
     "handlebars": "^4.7.8",
     "has-flag": "^5.0.1",
