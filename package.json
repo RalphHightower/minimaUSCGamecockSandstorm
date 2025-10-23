@@ -94,7 +94,7 @@
     "indent-string": "^5.0.0",
     "index-to-position": "^1.0.0",
     "inherits": "^2.0.4",
-    "ini": "^5.0.0",
+    "ini": "^6.0.0",
     "into-stream": "^9.0.0",
     "is-alphabetical": "^2.0.1",
     "is-alphanumerical": "^2.0.1",
