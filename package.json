@@ -116,7 +116,7 @@
     "js-tokens": "^9.0.1",
     "js-yaml": "^4.1.0",
     "json-parse-better-errors": "^1.0.2",
-    "json-parse-even-better-errors": "^4.0.0",
+    "json-parse-even-better-errors": "^5.0.0",
     "jsonfile": "^6.1.0",
     "katex": "^0.16.19",
     "lines-and-columns": "^2.0.4",
