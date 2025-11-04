@@ -26,7 +26,7 @@
     "character-entities": "^2.0.2",
     "character-entities-legacy": "^3.0.0",
     "character-reference-invalid": "^2.0.1",
-    "clean-stack": "^5.2.0",
+    "clean-stack": "^6.0.0",
     "cli-highlight": "^2.1.11",
     "cli-table3": "^0.6.5",
     "cliui": "^9.0.1",
