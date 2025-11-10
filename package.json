@@ -205,7 +205,7 @@
     "queue-microtask": "^1.2.3",
     "rc": "^1.2.8",
     "read-package-up": "^11.0.0",
-    "read-pkg": "^9.0.1",
+    "read-pkg": "^10.0.0",
     "readable-stream": "^4.7.0",
     "registry-auth-token": "^5.0.3",
     "require-directory": "^2.1.1",
