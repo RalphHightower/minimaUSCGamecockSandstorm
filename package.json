@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "markdownlint": "^0.39.0",
+    "markdownlint": "^0.40.0",
     "semantic-release": "^25.0.0"
   },
   "name": "minimauscgamecocksandstorm",
