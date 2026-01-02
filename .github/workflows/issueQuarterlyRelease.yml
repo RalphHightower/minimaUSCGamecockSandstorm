@@ -1,34 +1,28 @@
-name: Create Issue to Update Year In Relevant Files
-# developer: @RalphHightower 
+name: issueQuarterlyRelease.yml – Create Quarterly Release
+
 on:
   schedule:
-    - cron: "0 5 1 1 *" # America/New_York (UTC-5:00)
+    - cron: 30 4 31 3 *
+    - cron: 30 4 30 6,9 *
+    - cron: 30 5 31 12 *
+  #workflow_dispatch:
 
 permissions:
-  actions: none
-  checks: none
-  contents: none
-  deployments: none
-  issues: none
-  packages: none
-  pull-requests: none
-  repository-projects: none
-  security-events: none
-  statuses: none
+  contents: read
 
 jobs:
-  create_issue:
-    name: Create issue to update copyright year
+  create-issue:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+
     steps:
       - name: Harden the runner (Audit all outbound calls)
         uses: step-security/harden-runner@20cf305ff2072d973412fa9b1e3a4f227bda3c76 # v2.14.0
         with:
           egress-policy: audit
 
-      - name: Happy New Year!
+      - name: Create Quarterly Release
         run: |
           new_issue_url=$(gh issue create \
             --title "$TITLE" \
@@ -41,13 +35,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
-          TITLE: Happy New  Year – Update License Year
-          ASSIGNEES: RalphHightower 
-          LABELS: documentation
+          TITLE: "Maintenance: Quarterly Release"
+          ASSIGNEES: "RalphHightower"
+          LABELS: "maintenance,release – minor"
           BODY: |
-            ### New Year's Maintenance 
+            # Quarterly Release 
 
-            - [ ] Update LICENSE. Add new year to year's span.
+            - [ ] Create Quarterly Release.
 
           PINNED: false
           CLOSE_PREVIOUS: false
