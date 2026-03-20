@@ -84,7 +84,7 @@
     "highlight.js": "^11.11.1",
     "hook-std": "^4.0.0",
     "hosted-git-info": "^9.0.0",
-    "http-proxy-agent": "^7.0.2",
+    "http-proxy-agent": "^8.0.0",
     "https-proxy-agent": "^8.0.0",
     "human-signals": "^8.0.0",
     "ignore": "^7.0.3",
