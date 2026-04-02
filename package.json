@@ -8,7 +8,7 @@
   "description": "USC Gamecock Sandstorm theme GitHub template, for alumni, students, faculty, staff, and fans. Built using Jekyll 4.3.4, customized color theme of minima 2.5.2, a one-size-fits-all Jekyll theme for writers.",
   "main": "README.md",
   "dependencies": {
-    "agent-base": "^8.0.0",
+    "agent-base": "^9.0.0",
     "aggregate-error": "^5.0.0",
     "ansi-escapes": "^7.0.0",
     "ansi-regex": "^6.1.0",
