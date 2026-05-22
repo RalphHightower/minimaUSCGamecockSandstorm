@@ -118,7 +118,7 @@
     "json-parse-better-errors": "^1.0.2",
     "json-parse-even-better-errors": "^6.0.0",
     "jsonfile": "^6.1.0",
-    "katex": "^0.16.19",
+    "katex": "^0.17.0",
     "lines-and-columns": "^2.0.4",
     "linkify-it": "^5.0.0",
     "load-json-file": "^7.0.1",
