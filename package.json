@@ -37,7 +37,7 @@
     "config-chain": "^1.1.13",
     "conventional-changelog-angular": "^8.0.0",
     "conventional-changelog-writer": "^8.0.0",
-    "conventional-commits-filter": "^5.0.0",
+    "conventional-commits-filter": "^6.0.0",
     "conventional-commits-parser": "^7.0.0",
     "convert-hrtime": "^5.0.0",
     "core-util-is": "^1.0.3",
