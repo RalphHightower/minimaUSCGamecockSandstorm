@@ -173,7 +173,7 @@
     "node-emoji": "^2.2.0",
     "normalize-package-data": "^9.0.0",
     "normalize-url": "^9.0.0",
-    "npm": "^11.1.0",
+    "npm": "^12.0.0",
     "npm-run-path": "^6.0.0",
     "object-assign": "^4.1.1",
     "onetime": "^8.0.0",
