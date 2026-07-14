@@ -14,7 +14,7 @@
     "ansi-regex": "^6.1.0",
     "ansi-styles": "^6.2.1",
     "any-promise": "^1.3.0",
-    "argparse": "^2.0.1",
+    "argparse": "^3.0.0",
     "argv-formatter": "^1.0.0",
     "array-ify": "^1.0.0",
     "before-after-hook": "^4.0.0",
