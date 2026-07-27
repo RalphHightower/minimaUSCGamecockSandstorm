@@ -21,7 +21,7 @@
     "bottleneck": "^2.19.5",
     "braces": "^3.0.3",
     "callsites": "^4.2.0",
-    "chalk": "^5.4.1",
+    "chalk": "^6.0.0",
     "char-regex": "^2.0.2",
     "character-entities": "^2.0.2",
     "character-entities-legacy": "^3.0.0",
