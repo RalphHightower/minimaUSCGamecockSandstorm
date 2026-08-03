@@ -130,7 +130,7 @@
     "lodash.isstring": "^4.0.1",
     "lodash.uniqby": "^4.7.0",
     "lru-cache": "^11.0.2",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^15.0.0",
     "marked": "^18.0.0",
     "marked-terminal": "^7.2.1",
     "mdurl": "^2.0.0",
