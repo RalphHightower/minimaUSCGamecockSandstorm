@@ -41,7 +41,7 @@
     "conventional-commits-parser": "^7.0.0",
     "convert-hrtime": "^5.0.0",
     "core-util-is": "^1.0.3",
-    "cosmiconfig": "^9.0.0",
+    "cosmiconfig": "^10.0.0",
     "cross-spawn": "^7.0.6",
     "crypto-random-string": "^6.0.0",
     "debug": "^4.4.0",
