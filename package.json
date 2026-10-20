@@ -198,7 +198,7 @@
     "picomatch": "^4.0.2",
     "pify": "^6.1.0",
     "pkg-conf": "^5.0.0",
-    "pretty-ms": "^9.2.0",
+    "pretty-ms": "^10.0.0",
     "process-nextick-args": "^2.0.1",
     "proto-list": "^1.2.4",
     "punycode.js": "^2.3.1",
