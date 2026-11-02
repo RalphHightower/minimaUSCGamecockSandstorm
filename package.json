@@ -132,7 +132,7 @@
     "lru-cache": "^11.0.2",
     "markdown-it": "^15.0.0",
     "marked": "^18.0.0",
-    "marked-terminal": "^7.2.1",
+    "marked-terminal": "^8.0.0",
     "mdurl": "^2.0.0",
     "meow": "^14.0.0",
     "merge-stream": "^2.0.0",
