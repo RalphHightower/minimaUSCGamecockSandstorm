@@ -32,7 +32,7 @@ gem 'jekyll-readme-index', '~> 0.5.0'
 gem 'jekyll-relative-links', '~> 0.9.0'
 gem 'jekyll-seo-tag', '~> 2.8'
 gem 'jekyll-sitemap', '~> 1.4'
-gem 'jekyll-titles-from-headings', '~> 0.5.3'
+gem 'jekyll-titles-from-headings', '~> 0.6.0'
 
 # { 2024-09-29 @RalphHightower
 # /home/runner/work/blog434/blog434/vendor/bundle/ruby/3.3.0/gems/jekyll-4.3.4/lib/jekyll.rb:28: warning: csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.4 to add csv into its gemspec.
