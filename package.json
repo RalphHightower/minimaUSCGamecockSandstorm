@@ -257,7 +257,7 @@
     "universalify": "^2.0.1",
     "url-join": "^6.0.0",
     "util-deprecate": "^1.0.2",
-    "validate-npm-package-license": "^3.0.4",
+    "validate-npm-package-license": "^4.0.0",
     "which": "^7.0.0",
     "wordwrap": "^1.0.0",
     "wrap-ansi": "^10.0.0",
